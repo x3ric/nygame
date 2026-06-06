@@ -1,10 +1,10 @@
 <div align="center">
 
-### Raylib TopDown Template
+### Nygame TopDown Template
 
-This is a simple top-down game template built using the raylib library.
+This is a compact top-down game template built on the Nytrix standard UI renderer.
 
-It provides a starting point for creating your own top-down games using raylib.
+It provides a starting point for native Nytrix UI games.
 
 #### Features
 
@@ -16,14 +16,14 @@ Easy-to-understand code structure
 
 #### Requirements
 
-raylib library ([Installation Guide](https://github.com/raysan5/raylib))
+[nytrix](https://github.com/nytrix-lang/nytrix)
 
 #### Compile & run
 
 <pre>
-git clone https://github.com/x3ric/raygame
-cd raygame
-make run
+git clone https://github.com/x3ric/nygame
+cd nygame
+ny game.ny
 </pre>
 
 <br>
