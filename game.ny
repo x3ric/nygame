@@ -6,7 +6,7 @@ use std.math as math
 use std.os as os
 use std.os.args as cli
 use std.os.path as ospath
-use std.parse.img.gif as gif_img
+use std.math.parse.img.gif as gif_img
 use std.os.ui.render as gfx
 use std.os.ui.render.dump as ui_dump
 use std.os.ui.render.viewer.batch as ui_batch
